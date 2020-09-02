@@ -1,2 +1,5 @@
 # La canelonera de buzardas y canelones
- pog
+ 
+En el repositorio se encuentra el archivo pogcode
+
+Integrantes: Azarola Santino, Nicolas DeLucchi
