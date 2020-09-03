@@ -10,7 +10,7 @@ namespace ConsoleApplication9
     {
         static void Main(string[] args)
         {
-            int pm = 0, pt = 0, pn = 0, 
+            int pm = 0, pt = 0, pn = 0, v, ppm, ppt, ppn;
             for (int i = 1; i <= 69; i++)
             { 
             Console.WriteLine("Ingrese la edad de un estudiante del turno mañana");
